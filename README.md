@@ -63,6 +63,7 @@ https://topqiang.github.io/xq_navbar/
       "hcolor":["blue","rgb(10,100,100)","red","pink","green","rgba(23,234,22,1)","rgb(230,230,230)"]
     });
 
+源码：https://github.com/topqiang/xq_navbar
 
 再次特请各位大牛指出不足。
 跪拜！跪拜！
