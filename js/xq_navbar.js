@@ -106,10 +106,3 @@
 		this.init();
 	}
 })(jQuery,window)
-$(function(){
-	$("#bar1").xq_navbar({"type":"underline","liwidth":"auto","bgcolor":"#000","hcolor":"#f0f"});
-	$("#bar2").xq_navbar({"type":"beat","liwidth":"avg","bgcolor":"#000","hcolor":"#f0f"});
-	$("#bar3").xq_navbar({"type":"line","liwidth":"avg","bgcolor":"#000"});
-	$("#bar4").xq_navbar({"type":"overline","liwidth":"120","bgcolor":"#000"});
-	$("#bar5").xq_navbar({"type":"block","liwidth":"avg","bgcolor":"#000","hcolor":["blue","rgb(10,100,100)","red","pink","green","rgba(23,234,22,1)","rgb(230,230,230)"]});
-});
